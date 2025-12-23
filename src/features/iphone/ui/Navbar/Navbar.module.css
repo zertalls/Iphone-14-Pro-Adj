@@ -1,0 +1,21 @@
+.container {    
+    padding: 42px 360px;
+
+    background-color: #0a0a0a;
+    background-image: url('../../../../common/assets/icons/appleLogo.svg');
+    background-size: 39px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.navWrapper {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+}
+
+.ulWrapper {
+    display: flex;
+    gap: 30px;        
+}
+

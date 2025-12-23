@@ -1,0 +1,32 @@
+.default {    
+    text-transform: uppercase;
+
+    /** FIGMA **/ 
+    font-weight: 700;
+    font-size: 24px;  
+
+    border: none;
+    border-radius: 30px;
+}
+
+.primary {
+    padding: 22px 118px;
+    /** FIGMA **/
+    max-width: 350px;    
+    height: 70px;
+
+    color: #fff;
+    background-color: #490e84;
+}
+
+.secondary {
+    /** FIGMA **/
+    max-width: 240px;
+    height: 50px;
+    
+    font-size: 14px;
+    line-height: 1.3;
+    color: #490e84;
+
+    background-color: #fff;
+}

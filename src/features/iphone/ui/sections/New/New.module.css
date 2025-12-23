@@ -1,0 +1,9 @@
+.newWrapper {
+    gap: 190px
+}
+
+.textWrapper {
+    flex-direction: column;
+    gap: 30px;
+}
+
