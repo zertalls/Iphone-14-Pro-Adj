@@ -1,9 +1,23 @@
+.container {
+    padding-bottom: 150px;
+}
+
 .newWrapper {
-    gap: 190px
+    gap: 190px;   
 }
 
 .textWrapper {
+    max-width: 560px;
     flex-direction: column;
     gap: 30px;
+    flex-grow: 1;
 }
 
+.pBold {    
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.h2 {
+    margin-top: 87px;
+}

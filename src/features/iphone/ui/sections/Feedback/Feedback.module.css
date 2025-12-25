@@ -1,0 +1,37 @@
+.feedbackLeft {
+    padding: 137px 97px;
+
+    background-color: #574b63;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 30px;
+}
+
+.feedBackWrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.h2 {
+    color: #fff;
+    margin-bottom: 72px;
+}
+
+.spanColor {
+    color: #fff;
+    opacity: 0.5;
+}
+
+.feedbackLeft > button {
+    max-width: 240px;
+    width: 100%;
+    align-self: center;
+}
+
+
+
+
+

@@ -1,0 +1,12 @@
+.container {   
+    background-color: #0a0a0a;
+}
+
+.footerWrapper {
+    padding: 66px 0;
+    display: flex;
+    justify-content: space-between
+}
+.spanColor {
+    color: #717171;
+}
