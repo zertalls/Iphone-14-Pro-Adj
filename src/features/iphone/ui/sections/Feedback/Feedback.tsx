@@ -14,10 +14,10 @@ export const Feedback = () => {
                         <input placeholder="Номер телефона"/>
                         <span className={clsx('fontSecondaryStyle', styles.spanColor)}>В ближайшее время наш менеджер свяжется с Вами</span>
                         <Button title="ЗАКАЗАТЬ" type="secondary"/>                 
-                </div>
-                <div className={styles.div}>
-                    <img src={iphoneSecondary} alt='iphone-14-pro-max' width='600px' height='600px'/>
-                </div>
+                </div> 
+                <div className={styles.imgContainer}>
+                    <img className={styles.img} src={iphoneSecondary} alt='iphone-14-pro-max'/>   
+                </div>       
             </FlexWrapper>            
         </div>
     );

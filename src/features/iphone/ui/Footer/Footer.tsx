@@ -9,8 +9,7 @@ export const Footer = () => {
                 <span className={clsx('fontSecondaryStyle', styles.spanColor)}>Политика конфиденциальности</span>  
                 <img src={appleLogo} alt='apple-logo' width='70px' height='70px'/>          
                 <span>+38 050-456-56-56</span> 
-            </footer>
-           
+            </footer>           
         </div>
     );
 };
